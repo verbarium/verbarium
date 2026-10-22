@@ -13,7 +13,7 @@ More are on the way, a clean French dictionary, synonyms and antonyms in six lan
 ### Also On
 
 - Kaggle, [French Wordle, Sutom And Hangman Word Lists](https://www.kaggle.com/datasets/cuivrax/french-word-games-starter-pack) and [French Word Frequency And Scrabble Validity](https://www.kaggle.com/datasets/cuivrax/french-word-frequency-scrabble-validity)
-- Hugging Face, [motvalide](https://huggingface.co/motvalide)
+- Hugging Face, [French Wordle, Sutom And Hangman Word Lists](https://huggingface.co/datasets/motvalide/french-wordle-sutom-word-lists), [French Word Frequency And Scrabble Validity](https://huggingface.co/datasets/motvalide/french-word-frequency-scrabble-validity) and the free [Mots Valides Au Scrabble](https://huggingface.co/spaces/motvalide/french-scrabble-word-checker) word checker
 
 ### The Sites Behind The Data
 
